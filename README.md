@@ -7,4 +7,4 @@ use of the [jawsdb mysql](https://elements.heroku.com/addons/jawsdb) plugin to c
 ## Node included Resources:
 - [mysql](https://www.npmjs.com/package/mysql)
 - [express](https://www.npmjs.com/package/express)
-- [express](https://www.npmjs.com/package/express-handlebars)
+- [express-handlebars](https://www.npmjs.com/package/express-handlebars)
